@@ -1,4 +1,10 @@
 {
+ "theme_color": "#FFFFFF",
+ "name": "Yacyretá 360º",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "description": "Paseo Digital",
  "icons": [
   {
    "type": "image/png",
@@ -35,11 +41,5 @@
    "src": "misc/icon64.png",
    "sizes": "64x64"
   }
- ],
- "start_url": "index.htm",
- "background_color": "#FFFFFF",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "name": "Yacyretá 360º",
- "description": "Paseo Digital"
+ ]
 }
